@@ -27,8 +27,4 @@ Este repositório contém uma coleção de exercícios resolvidos do Beecrowd, o
 
 Sinta-se à vontade para explorar, estudar e utilizar esses exercícios como referência. Caso encontre erros ou tenha sugestões de melhorias, ficarei feliz em receber contribuições por meio de _pull requests_.
 
-## Contato
-
-Se tiver dúvidas, sugestões ou quiser entrar em contato, você pode me encontrar no meu [perfil do GitHub](https://github.com/marlonigor).
-
 Aproveite a exploração e bons estudos!
