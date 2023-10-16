@@ -1,6 +1,6 @@
-# Beecrowd-exercícios
+# Beecrowd-exercíciosC
 
-Este repositório contém uma coleção de exercícios resolvidos do Beecrowd, organizados por tema. O objetivo é demonstrar a minha trajetória de aprendizado na programação e compartilhar soluções para desafios variados.
+Este repositório contém uma coleção de exercícios resolvidos do Beecrowd, organizados por tema, na linguagem C. O objetivo é demonstrar a minha trajetória de aprendizado na programação e compartilhar soluções para desafios variados.
 
 ### Temas
 
